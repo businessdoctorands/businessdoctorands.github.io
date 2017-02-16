@@ -23,6 +23,11 @@ navigation:
  - title: Upcoming Events
    url: /events 
 
+collections:
+   events:
+    output: true 
+    permalink: /events/:path/:title
+
 social:
    github: businessdoctorands
    twitter: ryan_kwan_do

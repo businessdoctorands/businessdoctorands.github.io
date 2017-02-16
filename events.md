@@ -3,24 +3,17 @@ layout: default
 title: Upcoming Events
 ---
 
-<div class="home" id="home">
-  <h1 class="pageTitle">Upcoming Events</h1>
-  <ul class="posts noList">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-      </li>
+
+{% for event in site.events %}
+  <h2>{{ event.title }}</h2>
+  <p>Performed by {{ event.artist }}{% if event.director %}, directed by {{ event.director }}{% endif %}</p>
+  {% for work in director.works %}
+    <h3>{{ work.title }}</h3>
+    <p>Composed by {{ work.composer }}</p>
+    <ul>
+    {% for track in work.tracks %}
+      <li>{{ track.title }} ({{ track.duration }})</li>
     {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
-    {% endif %}
-  </div>
-</div>
+    </ul>
+  {% endfor %}
+{% endfor %}
