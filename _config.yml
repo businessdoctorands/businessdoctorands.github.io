@@ -20,11 +20,13 @@ navigation:
    url: /activities  
  - title: Contact
    url: /contact
+ - title: Upcoming Events
+   url: /events 
 
 social:
-   github: brianmaierjr
+   github: businessdoctorands
    twitter: ryan_kwan_do
-   facebook: brianmaierjr
+   facebook: ryan.c.armstrong
    email: ryarmsta7@alumnes.ub.edu
 
 google_analytics: ""
