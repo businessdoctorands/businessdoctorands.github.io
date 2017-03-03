@@ -22,6 +22,8 @@ navigation:
    url: /contact
  - title: Event Calendar
    url: /events 
+ - title: Resources
+   url: /resources
 
 collections:
    events:
