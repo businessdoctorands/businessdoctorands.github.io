@@ -7,7 +7,6 @@ title: Contact UB Business Doctorands
   <h1 class="pageTitle">Contact Us</h1>
   <div class="contactContent">
     <p class="intro">Questions? Want to participate? Use this form and write us a line.</p>
-    <p>Fins aviat!</p>
   </div>
   <form action="https://formspree.io/ryarmsta7@alumnes.ub.edu" method="POST">
     <label for="name">Name</label>    
