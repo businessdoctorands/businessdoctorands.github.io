@@ -4,12 +4,12 @@ title:  "Entrevista sobre estancias en el extranjero, Parte 1"
 date:   2017-04-04
 ---
 
-Este mes dos doctorandos van a hacer estudios en el extranjero. Esta experiencia se puede hacer cualquier doctorando dentro de la UB, y puede sirvir para obtener un "international doctorate certification"---una cualificación oficial que se añade al título de doctorado.
+Este mes dos doctorandos van a hacer estudios en el extranjero. Esta experiencia se puede hacer cualquier doctorando dentro de la UB, y puede sirvir para obtener un "international doctorate certification"---una certificación oficial que se añade al título de doctorado.
 Alfonso Hernández va a Portugál, mientras Cristian Granados cruzará el puente para ir a Canadá.
 
 En esta primera parte Cristian nos contará un poco de cómo ha llegado de sus inicios a este punto de ir a un país tan lejano.
 
-*Cuentame un poco de cómo te encontraste en la situación de irte a Canadá para estudiar*
+*Cuentame un poco de cómo te encontraste en la situación de irte a Canadá para estudiar.*
 
 Fue un poco de casualidad digamos, porqué mi supervisor Montserrat Pareja tiene un proyecto en conjunto con [HEC Montreal](http://www.hec.ca/en/). Entonces, hace un año fui a una summerschool que organizan en conjunto, entre la UB, especialmente Monserrat Pareja y la persona con la que voy a ir allá. Allí concocí a Laurent Simon, que es la persona que me va a recibir, concoci la uni, y conocí su enfoque también, digamos. 
 
