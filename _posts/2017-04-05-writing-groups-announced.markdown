@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing groups here! (finally)"
+title:  "Writing groups are here!"
 date:   2017-04-05
 ---
 
