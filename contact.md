@@ -9,7 +9,7 @@ title: Contact UB Business Doctorands
     <p class="intro">Questions? Want to participate? Use this form and write us a line.</p>
     <p>Fins aviat!</p>
   </div>
-  <form action="http://formspree.io/ryarmsta7@alumnes.ub.edu" method="POST">
+  <form action="https://formspree.io/ryarmsta7@alumnes.ub.edu" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
