@@ -19,7 +19,7 @@ Fue un proceso muy sencillo. Realmente fue un mail, donde yo le pregunté  a Lau
 
 *El proceso administrativo es dificíl?*
 
-No! Para nada: Aquí en la UB tienes que entregar una carta que es muy sencilla a Joana, que la entrega a una comisión. Una vez entregando esta carta,  despues de que reunan la comisión te dirán seguramente que sí al menos de que haya algo raro. Y para que puedas ir 3 meses o máximo 6 meses. Este proceso se hace si quieres obtener la mención internacional. Si quieres la mención internacional no tienes porque pedir a la comisión.
+No! Para nada: Aquí en la UB tienes que entregar una carta que es muy sencilla a Joana, que la entrega a una comisión. Una vez entregando esta carta,  despues de que reunan la comisión te dirán seguramente que sí al menos de que haya algo raro. Y para que puedas ir 3 meses o máximo 6 meses. Este proceso se hace si quieres obtener la mención internacional. Si no quieres la mención internacional no tienes porque pedir a la comisión.
 
 Hay que tener en cuenta que para que obtengas la mención internacional una persona  de esa universidad donde has ido venga, que sea distinta a la persona que te ha recibido. Quien firma tu carta de estancia no puede ser la misma quien venga a tu lectura de tésis doctoral. Pero es muy sencillo. Ellos me extendieron una carta de aceptación.
 
