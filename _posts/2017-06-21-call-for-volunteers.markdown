@@ -4,7 +4,9 @@ title:  "Call for volunteers for 2017 - 2018 academic year"
 date:   2017-06-21
 ---
 
-# Call for volunteers - 2017--2018 Academic Year
+# Call for volunteers
+
+2017-2018 Academic Year
 
 UB Doctoral Researchers in Business needs your help! After a year in unofficial operation, the time has come for our tiny operation to open its wings and fly. There are a few tasks that have to be carried out in order to meet the goals of the association. These are listed below. 
 
@@ -25,6 +27,8 @@ In addition to their specific tasks, every volunteer is expected to participate 
 # How to volunteer
 
 Look at the open positions below and volunteer for a specific position by writing to [email] with the position in the subject line. If you have no preference, simply include "volunteer - no preference". 
+
+---------
 
 # Open positions
 
@@ -64,7 +68,7 @@ This volunteer puts much needed resources on the web. For example, how to target
 
 Target: At least 1 new page per month
 
-## Funding Champion: Looks for funding opportunities. 
+## Funding Champion
 
 The Funding Champion seeks funding for the association to carry out or expand its activities. A brave soul with high tolerance for ambiguity would make a good funding champion.
 
