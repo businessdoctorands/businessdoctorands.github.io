@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Call for volunteers for 2017 - 2018 academic year"
+title:  "Call for volunteers"
 date:   2017-06-21
 ---
-
-# Call for volunteers
 
 2017-2018 Academic Year
 
