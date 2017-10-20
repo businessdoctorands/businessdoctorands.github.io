@@ -6,13 +6,13 @@ date:   2017-10-20
 
 <p class="intro"><span class="dropcap">O</span>n Wednesday, October 25th, the Associació d’investigadors d’empresa en formació will hold its first official annual general meeting. All those wishing to participate are welcome!</p>
 
-<h2>Details:</h2>
+<h3>Details:</h3>
 
 Where: Aula Sardà, Facultat d'economía i empresa
 When: Wednesday, October 25, at approx. 18:15 (after official PhD welcome session)
 Language: English / Spanish / Catalan
 
-<h2>Agenda</h3>
+<h3>Agenda</h3>
 <ol>
   <li>Introduction</li>
 
