@@ -2,6 +2,8 @@
 layout: default
 title: Contact UB Business Doctorands
 ---
+{% include newsletter.html %}
+
 
 <div id="contact">
   <h1 class="pageTitle">Contact Us</h1>
