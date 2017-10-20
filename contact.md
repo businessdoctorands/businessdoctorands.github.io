@@ -5,9 +5,8 @@ title: Contact UB Business Doctorands
 
 
 <div id="contact">
-  
-  {% include newsletter.html %}
   <h1 class="pageTitle">Contact Us</h1>
+    {% include newsletter.html %}
   <div class="contactContent">
     <p class="intro">Questions? Want to participate? Use this form and write us a line.</p>
   </div>
