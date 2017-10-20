@@ -18,3 +18,5 @@ title: Contact UB Business Doctorands
     <input type="submit" value="Send" class="button">
   </form>
 </div>
+
+{% include newsletter.html %}
