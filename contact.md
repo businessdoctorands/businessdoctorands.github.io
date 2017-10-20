@@ -2,10 +2,11 @@
 layout: default
 title: Contact UB Business Doctorands
 ---
-{% include newsletter.html %}
 
 
 <div id="contact">
+  
+  {% include newsletter.html %}
   <h1 class="pageTitle">Contact Us</h1>
   <div class="contactContent">
     <p class="intro">Questions? Want to participate? Use this form and write us a line.</p>
