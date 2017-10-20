@@ -15,8 +15,7 @@ Language: English / Spanish / Catalan
 <h3>Agenda</h3>
 <ol>
   <li>Introduction</li>
-
-  <p>Introduction by offering recent news of the group, some brief implications of our status as an official association at the UB and within Catalonia, and the format of the meeting.</p>
+  <p text-indent:0pt>Introduction by offering recent news of the group, some brief implications of our status as an official association at the UB and within Catalonia, and the format of the meeting.</p>
   <li>Apologies</li>
 
   <li>Introductions of new members</li>
