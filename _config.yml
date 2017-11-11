@@ -1,5 +1,5 @@
-title: UB Business Doctorands
-description: Home of UB doctoral researchers in Business
+title: AIEF - Investigadors d'empresa en formació
+description: Home of Early Career Business Researchers - Barcelona
 
 url: http://businessdoctorands.github.io
 baseurl: ""
@@ -34,6 +34,6 @@ social:
    github: businessdoctorands
    twitter: ryan_kwan_do
    facebook: groups/697965583666993
-   email: ryarmsta7@alumnes.ub.edu
+   email: admin@aief.cat
 
 google_analytics: ""
